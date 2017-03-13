@@ -1,5 +1,5 @@
 _repo: Quotations-from-Diary-of-Samuel-Pepys_4202
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   creator:
     editor:
@@ -7,6 +7,9 @@ contributor:
       birthdate: 1932
       gutenberg_agent_id: '1961'
       url: http://www.gutenberg.org/2009/agents/1961
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Pepys, Samuel
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1181
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Pepys
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4202#Quotations-from-Diary-of-Samuel-Pepys
 gutenberg_issued: '2003-07-01'
 gutenberg_type: Text
 identifiers:
