@@ -1,5 +1,5 @@
 _repo: Quotations-from-Diary-of-Samuel-Pepys_4202
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editor:
@@ -32,5 +32,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Quotations'
 - !lcc 'DA'
+- GITenberg
 title: Quotations from Diary of Samuel Pepys
 url: http://www.gutenberg.org/ebooks/4202
